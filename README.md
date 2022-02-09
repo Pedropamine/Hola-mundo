@@ -1,4 +1,7 @@
 # Hola-mundo
+
+print("Hola mundo")
+
 Repositorio prueba
 
 Autor: Pedro Manuel Castro 
